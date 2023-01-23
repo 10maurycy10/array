@@ -2,7 +2,7 @@
 
 Everyone knows linked lists are slower than arrays, but are they?
 
-TLDR: a linked list of ints is 50% slower than a array.
+TLDR: a linked list of ints is 50% to **access** slower than a array.
 
 ## source files:
 
